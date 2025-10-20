@@ -31,7 +31,8 @@ header {
   height: 18px;
 }
 
-.a_links a {
+.a_links div {
+  cursor: pointer;
   color: white;
 }
 
